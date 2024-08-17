@@ -1,3 +1,3 @@
-#Landing Page de Productos de Chocolate 🍫
-Descripción
-Este es un proyecto de una página web simple dedicada a la promoción de productos de chocolate. La página fue creada usando HTML y CSS, con un diseño atractivo y fácil de navegar.
+LANDING PAGE DE PRODUCTOS DE CHOCOLATE 🍫
+Description
+This is a simple website project dedicated to the promotion of chocolate products. The site was created using HTML and CSS, with an attractive and easy to navigate design.
